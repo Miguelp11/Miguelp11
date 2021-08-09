@@ -15,5 +15,5 @@ En un futuro quiero ser un desarrollador web full-stack. 💻
 <!-- HTML5, CSS3, JavaScript, Java, PHP, SQL, WordPress -->
 
 ---
-## Redes Sociales
+## Contacto
 [<img src='https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/miguel-ponce//)  [<img src='https://cdn.worldvectorlogo.com/logos/facebook-2020-1-1.svg' alt='facebook' height='40' width='40'>](https://www.facebook.com/miguelp1194/)  [<img src='https://image.flaticon.com/icons/png/512/5208/5208329.png' alt='website' height='40' width='40'>](https://miguelp11.github.io/Portafolio/)  
