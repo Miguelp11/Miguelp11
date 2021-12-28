@@ -2,10 +2,10 @@
 
 ## Desarrollador Web
 
-Me gusta seguir aprendiendo sobre temas de desarrollo web 🔥, por lo que constantemente estoy buscando formas de actualizarme , mejorar y adquirir nuevos conocimientos para aplicarlos y beneficiar a mi trabajo, por eso de manera independiente, para seguir adentrándome en el ramo estoy tomando diversos cursos en plataformas en linea. 🔋
+Me gusta seguir aprendiendo sobre temas de desarrollo web, 🔥 por lo que constantemente estoy buscando formas de actualizarme , mejorar y adquirir nuevos conocimientos para aplicarlos y beneficiar a mi trabajo, por eso de manera independiente, para seguir adentrándome en el ramo estoy tomando diversos cursos en plataformas en linea. 🔋
 En un futuro quiero ser un desarrollador web full-stack. 💻
 
-- 🌱 Estoy aprendiendo React 
+- 🌱 Estoy aprendiendo LitElement
 ---
 
 ## Lenguajes y Herramientas:
